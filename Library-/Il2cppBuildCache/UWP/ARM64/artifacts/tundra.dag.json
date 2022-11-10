@@ -1,0 +1,178 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp D:/UnityProjects/2022_XR_SEAH/Library/Il2cppBuildCache/UWP/ARM64/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.27f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --incremental-g-c-time-slice=3 --baselib-directory=\"Temp\\StagingArea\\Il2CppOutputProject\\IL2CPP\\build\\baselib\\ARM64\\Release\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed --generatedcppdir=D:/UnityProjects/2022_XR_SEAH/Library/Il2cppBuildCache/UWP/ARM64/il2cppOutput --stats-output-dir=D:/UnityProjects/2022_XR_SEAH/Library/Il2cppBuildCache/UWP/ARM64/il2cppStats",
+      "Inputs": [
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/I18N.CJK.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/I18N.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/I18N.MidEast.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/I18N.Other.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/I18N.Rare.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/I18N.West.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.OpenXR.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Async.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Extensions.Tracking.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Gltf.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SDK.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/SALSA-LipSync.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Numerics.Vectors.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.ObjectModel.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Runtime.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.WindowsRuntime.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Runtime.WindowsRuntime.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Runtime.WindowsRuntime.UI.Xaml.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.InputSystem.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "D:/UnityProjects/2022_XR_SEAH/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "\"C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "D:/UnityProjects/2022_XR_SEAH/Library/Il2cppBuildCache/UWP/ARM64/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
